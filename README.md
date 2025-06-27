@@ -1,4 +1,4 @@
-## Olá, Sou Eduardo Lira 🖖
+## Olá, Sou Eduardo Lira 
 
 - 🔭 I am currently in IT support, with the aim of migrating to web development.
 - 🌱 Studying React, Node.js, Typescript, relational databases with a focus on developing dynamic and responsive web pages
