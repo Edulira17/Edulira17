@@ -14,8 +14,5 @@
   <img src="https://img.shields.io/badge/postgresql-008B8B?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-  ##
-
- ##Tecnologias e Ferramentas 
 
 
