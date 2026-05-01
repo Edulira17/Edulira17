@@ -5,8 +5,6 @@
 - 😄 Pronouns: him/his 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edulira17&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java&logoColor=black">
